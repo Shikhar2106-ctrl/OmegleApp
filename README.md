@@ -22,5 +22,3 @@ node server.js
 
 ## Deployment
 - this link https://omegleapp-1-t5ic.onrender.com
-
-![image](https://github.com/user-attachments/assets/3d5d9f63-b4e0-4f44-ac5c-3749958e5690)
