@@ -19,3 +19,6 @@ A real-time video chat application inspired by Omegle. Built using WebRTC, Socke
 ```bash
 npm install
 node server.js
+
+## Deployment
+- this link https://omegleapp-1-t5ic.onrender.com
